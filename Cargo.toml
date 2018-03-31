@@ -1,0 +1,9 @@
+[package]
+name = "take_it_easy"
+version = "0.1.0"
+authors = ["Patrick Schöppl <patrick.schoeppl@gmail.com>"]
+
+[dependencies]
+rand = "0.4.2"
+rustc-test = "0.3.0"
+time = "*"
